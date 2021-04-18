@@ -1,0 +1,609 @@
+1618596197190	geckodriver	INFO	Listening on 127.0.0.1:51877
+1618596200249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileoraFOQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618596202360	Marionette	INFO	Listening on port 51887
+1618596202420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: TypeError: window._gcol is undefined
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5606: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 5606: uncaught exception: [object Object]
+1618612536343	geckodriver	INFO	Listening on 127.0.0.1:56247
+1618612539392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileJtkl8T"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618612540787	Marionette	INFO	Listening on port 56257
+1618612540938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618616040100	Marionette	INFO	Stopped listening on port 56257
+** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618612696567	Marionette	INFO	Listening on port 56473
+1618612696873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+1618613704249	geckodriver	INFO	Listening on 127.0.0.1:57268
+1618613707316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileGSFnfr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618613708639	Marionette	INFO	Listening on port 57279
+1618613708865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618613790208	geckodriver	INFO	Listening on 127.0.0.1:57473
+1618613793308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileagsXBF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618613794477	Marionette	INFO	Listening on port 57483
+1618613794856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+1618613889220	geckodriver	INFO	Listening on 127.0.0.1:57715
+1618613892318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofile6PSdY6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618613894847	Marionette	INFO	Listening on port 57725
+1618613894996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618614011823	geckodriver	INFO	Listening on 127.0.0.1:57999
+1618614022378	geckodriver	INFO	Listening on 127.0.0.1:58026
+1618614030444	geckodriver	INFO	Listening on 127.0.0.1:58043
+1618614033506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofile6JGXmC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618614034765	Marionette	INFO	Listening on port 58055
+1618614035054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618614341935	geckodriver	INFO	Listening on 127.0.0.1:58552
+1618614345008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileCNTWdH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618614346283	Marionette	INFO	Listening on port 58561
+1618614346557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618614412343	geckodriver	INFO	Listening on 127.0.0.1:58721
+1618614415430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileV8lebU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618614417799	Marionette	INFO	Listening on port 58729
+1618614418122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618614435657	Marionette	INFO	Stopped listening on port 58729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618614446279	geckodriver	INFO	Listening on 127.0.0.1:58842
+1618614449353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilenU1ziR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618614451470	Marionette	INFO	Listening on port 58852
+1618614451519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618614807924	geckodriver	INFO	Listening on 127.0.0.1:59380
+1618614810976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileLzWsrc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618614813270	Marionette	INFO	Listening on port 59389
+1618614813850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618614955365	geckodriver	INFO	Listening on 127.0.0.1:59726
+1618614958416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofile0J0kTW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618614959706	Marionette	INFO	Listening on port 59760
+1618614959971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618614995789	geckodriver	INFO	Listening on 127.0.0.1:59907
+1618614998849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileS5sPHi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618615000130	Marionette	INFO	Listening on port 59917
+1618615000399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618615564524	geckodriver	INFO	Listening on 127.0.0.1:60327
+1618615567595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileCV4jp2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618615568894	Marionette	INFO	Listening on port 60337
+1618615569130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618670147398	geckodriver	INFO	Listening on 127.0.0.1:57094
+1618670150462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileoDrPNT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618670153170	Marionette	INFO	Listening on port 57105
+1618670153641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: TypeError: window._gcol is undefined
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+1618670242616	Marionette	INFO	Stopped listening on port 57105
+1618670391488	geckodriver	INFO	Listening on 127.0.0.1:57692
+1618670394546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileKh3p4K"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618670395897	Marionette	INFO	Listening on port 57722
+1618670396092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618702996387	geckodriver	INFO	Listening on 127.0.0.1:51259
+1618702999460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilemcJhZG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618703000725	Marionette	INFO	Listening on port 51270
+1618703001017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618703411636	geckodriver	INFO	Listening on 127.0.0.1:53173
+1618703414734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileCgqxOk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618703415905	Marionette	INFO	Listening on port 53184
+1618703416283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618703594940	geckodriver	INFO	Listening on 127.0.0.1:53775
+1618703598021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofile4nDCfi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618703599229	Marionette	INFO	Listening on port 53785
+1618703599566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618703665297	geckodriver	INFO	Listening on 127.0.0.1:53917
+1618703668356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileYFCe32"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618703669584	Marionette	INFO	Listening on port 53927
+1618703669906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618703696469	geckodriver	INFO	Listening on 127.0.0.1:54039
+1618703699518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilerYqoUQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618703700708	Marionette	INFO	Listening on port 54049
+1618703701063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618704264160	geckodriver	INFO	Listening on 127.0.0.1:54774
+1618704267262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilernUiwv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618704268536	Marionette	INFO	Listening on port 54783
+1618704268806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618704307744	geckodriver	INFO	Listening on 127.0.0.1:54875
+1618704310838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilecED4nK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618704311991	Marionette	INFO	Listening on port 54886
+1618704312389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618704331401	geckodriver	INFO	Listening on 127.0.0.1:54989
+1618704334467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileHbfDGV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618704335709	Marionette	INFO	Listening on port 55003
+1618704336018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618704562524	geckodriver	INFO	Listening on 127.0.0.1:55378
+1618704565608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilen8tWUN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618704566899	Marionette	INFO	Listening on port 55390
+1618704567138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618704590380	geckodriver	INFO	Listening on 127.0.0.1:55462
+1618704593480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilexHhVXD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618704594719	Marionette	INFO	Listening on port 55470
+1618704595015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618706693357	geckodriver	INFO	Listening on 127.0.0.1:56643
+1618706696440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileSDBJxB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618706698406	Marionette	INFO	Listening on port 56657
+1618706698494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618706733932	geckodriver	INFO	Listening on 127.0.0.1:56755
+1618706737034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilexPk7Qq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618706738706	Marionette	INFO	Listening on port 56767
+1618706739082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilemdirx0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618706806235	Marionette	INFO	Listening on port 56979
+1618706806401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618706960648	geckodriver	INFO	Listening on 127.0.0.1:57348
+1618706963663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileqrCX9S"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618706965334	Marionette	INFO	Listening on port 57360
+1618706965741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: TypeError: window._gcol is undefined
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 108: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618707061893	geckodriver	INFO	Listening on 127.0.0.1:57616
+1618707065024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileq8DnRX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707066769	Marionette	INFO	Listening on port 57625
+1618707067075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: TypeError: window._gcol is undefined
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/ line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=BU2RUUIP8ONLUM6RB3P0&lib=ttq, line 3: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+1618707155564	geckodriver	INFO	Listening on 127.0.0.1:57970
+1618707158680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileUrfgZ0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707160468	Marionette	INFO	Listening on port 57980
+1618707160745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618707356071	geckodriver	INFO	Listening on 127.0.0.1:58382
+1618707359174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilek6JuYi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707360964	Marionette	INFO	Listening on port 58392
+1618707361232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618707461670	geckodriver	INFO	Listening on 127.0.0.1:58845
+1618707464789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilejGmXqM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707466624	Marionette	INFO	Listening on port 58855
+1618707466839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618707786781	geckodriver	INFO	Listening on 127.0.0.1:59563
+1618707789889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileqNxHEP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707791665	Marionette	INFO	Listening on port 59574
+1618707791948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618707867781	geckodriver	INFO	Listening on 127.0.0.1:59788
+1618707870913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileudZLCL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707872630	Marionette	INFO	Listening on port 59797
+1618707872983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618707924600	geckodriver	INFO	Listening on 127.0.0.1:60000
+1618707927635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileIWWqaP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707929224	Marionette	INFO	Listening on port 60010
+1618707929700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618707980856	geckodriver	INFO	Listening on 127.0.0.1:60146
+1618707983935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileUTIvad"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618707985639	Marionette	INFO	Listening on port 60179
+1618707985982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618708060392	geckodriver	INFO	Listening on 127.0.0.1:60451
+1618708063514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofilejsmgub"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618708065241	Marionette	INFO	Listening on port 60466
+1618708065563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618708162674	geckodriver	INFO	Listening on 127.0.0.1:60705
+1618708165766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileLblsof"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618708167772	Marionette	INFO	Listening on port 60716
+1618708167815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618708231394	geckodriver	INFO	Listening on 127.0.0.1:60833
+1618708234498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileXzTEle"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618708236292	Marionette	INFO	Listening on port 60845
+1618708236578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618708601784	geckodriver	INFO	Listening on 127.0.0.1:61418
+1618708604861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileDk6o7I"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618708606586	Marionette	INFO	Listening on port 61430
+1618708606915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618708694022	geckodriver	INFO	Listening on 127.0.0.1:61690
+1618708697141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofile4Xy4NT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618708699004	Marionette	INFO	Listening on port 61698
+1618708699200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618709279936	geckodriver	INFO	Listening on 127.0.0.1:62572
+1618709283046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileueL1na"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618709284878	Marionette	INFO	Listening on port 62580
+1618709285105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618709386786	geckodriver	INFO	Listening on 127.0.0.1:62985
+1618709389833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileeRAWfR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618709391918	Marionette	INFO	Listening on port 62996
+1618709392038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618709465268	geckodriver	INFO	Listening on 127.0.0.1:63177
+1618709468390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofile2bGrrf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618709470535	Marionette	INFO	Listening on port 63187
+1618709470565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).

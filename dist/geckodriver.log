@@ -1,0 +1,27 @@
+1618616608871	geckodriver	INFO	Listening on 127.0.0.1:61029
+1618616611901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofileSa7I6b"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618616613156	Marionette	INFO	Listening on port 61037
+1618616613462	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\sukru\\AppData\\Local\\Temp\\rust_mozprofile59hFW1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618616654284	Marionette	INFO	Listening on port 61093
+1618616654595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: TypeError: window._gcol is undefined
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript error: https://www.trendyol.com/Hesabim/IndirimKuponlari line 5870 > injectedScript, line 1: SyntaxError: redeclaration of const date
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 106: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
